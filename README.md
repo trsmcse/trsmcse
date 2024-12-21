@@ -34,5 +34,4 @@ Cloud-native technologies and Kubernetes <br/>
 Penetration Testing
 
 # 💬 Let's Connect
-Feel free to reach out if you have any questions, need assistance, or just want to connect! <br/>
-Feel free to customize this template to better fit your profile and experiences. If you need any more help, just let me know!
+Feel free to reach out if you have any questions, need assistance, or just want to connect!
